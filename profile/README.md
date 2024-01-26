@@ -6,11 +6,6 @@ Welcome to the official GitHub repository of Medip Analytics. We specialize in p
 ## Our Mission
 At Medip Analytics, our goal is to illuminate the distinct benefits of medical technologies. We focus on dynamic analytics, offering insights into effectiveness, health outcomes, and cost-effectiveness. Our software solutions are designed to be adaptable, catering to various stakeholders including hospitals, key opinion leaders, payers, and healthcare systems globally.
 
-## Software Solutions
-- **Medip Prostate**: A platform for Health Economic Evaluations of Prostate Cancer Products.
-- **Medip Lung**: A tool for showcasing the value of diagnostic or prognostic lung cancer products.
-- **Medip Custom**: Custom-built HTA/HEOR software tailored to unique needs.
-
 ## Our Approach
 At the core of Medip Analytics is Health Economics and Outcomes Research (HEOR). Our team, with a decade of experience and numerous scientific publications, leverages this discipline to create dynamic models comparing your technology with the standard care.
 
